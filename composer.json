@@ -17,7 +17,7 @@
         "fed/std-field-controls-keyvals": "*",
         "fed/std-field-controls-toggle": "*",
         "fed/std-field-controls-txt": "*",
-        "fed/std-model-controls-button": "*",
+        "fed/std-model-controls-buttons": "*",
         "fed/std-model-controls-images": "*"
     }
 }

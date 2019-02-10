@@ -18,6 +18,7 @@
         "fed/std-field-controls-toggle": "*",
         "fed/std-field-controls-txt": "*",
         "fed/std-model-controls-buttons": "*",
-        "fed/std-model-controls-images": "*"
+        "fed/std-model-controls-images": "*",
+        "fed/std-ui-grid": "*"
     }
 }
